@@ -2,3 +2,9 @@
 
 Forked from [this excellent codesandbox](https://codesandbox.io/s/react-financial-charts-demo-c88wz).  Built, for better or worse, with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+To run in dev mode:
+
+```
+npm install
+npm start
+```
